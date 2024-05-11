@@ -1,0 +1,82 @@
+[
+    {
+        "model": "Acer Aspire 5",
+        "price": "500$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-0044_d9189b301b442abc874608fc212b9b70_w.jpg"
+    },
+    {
+        "model":"Acer Aspire A315",
+        "price": "400$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-0054_8c71cd79d0487266d4cffb511533526f_w.jpg"
+    },
+    {
+        "model":"Acer Aspire 3",
+        "price": "700$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-0034_034eeefe14d55b9384e3b3187710130e_w.jpg"
+    },
+    {
+        "model":"Acer Aspire A515-44G-R012",
+        "price": "900$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-0062_bec0cf7dc39498ce02f571995cb743c2_w.jpg"
+    },
+    {
+        "model":"Lenova IdeaPad 1 14 ",
+        "price": "500$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1252_f3595e8c7288e1be4ab8134ad608a7e2_w_png.webp"
+    },
+    {
+        "model":"HP 255 G8",
+        "price": "400$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1093_0efad3ea7e4a43e743b4a5774e7d4543_w_png.webp"
+    },
+    {
+        "model":"Acer A315-58-30C",
+        "price": "700$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1480_51e74f67b40999581b7fde65c9be48f6_w_png.webp"
+    },
+    {
+        "model":"Acer Extensa 215-54-52E7",
+        "price": "700$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1483_53daa4a6e9801884064dd86215c4dc7c_w_png.webp"
+    },
+    {
+        "model":"Lenovo ThinkPad T14 Gen 3",
+        "price": "600$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1702_1fec8d6afccf6c3fdb3dc6db5f9d3784_w_png.webp"
+    },
+    {
+        "model":"Acer Aspire 5 A514-54-5819",
+        "price": "800$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1700_880103832ee780f1461d7962f1e43aa7_w_png.webp"
+    },
+    {
+        "model":"Asus TUF Dash F15 FX517ZM-HQ104",
+        "price": "600$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1693_c2abebae349b097ba3b80c7833cad7ac_w_png.webp"
+    },
+    {
+        "model":"Asus ROG Strix G15 G513IM-HN008",
+        "price": "700$",
+        "image": "https://kontakt.az/wp-content/uploads/2022/12/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-3-48_png.webp"
+    },
+    {
+        "model":"Asus TUF F17 FX706HM-HX146",
+        "price": "900$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1690_73f842876d44a3fa8849afa4b9def659_w_png.webp"
+    },
+    {
+        "model":"Lenovo V14-ADA (82C6006ERU)",
+        "price": "500$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1674_d97e9b85bd5a45760c79a0683e0c4866_w_png.webp"
+    },
+    {
+        "model":"HP 255 G7 (214F5ES)",
+        "price": "570$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1671_cbdca3f5d0aa60ad771f205002f974e6_w_png.webp"
+    },
+    {
+        "model":"HP 15-DW3043UR",
+        "price": "720$",
+        "image": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1439_b5e57b08a1d8af4bc1591da13db33683_w_png.webp"
+    }
+]
